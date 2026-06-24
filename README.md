@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kannaanye👋
+
+🎓 2nd-year university student in Japan (Information & Media)
+🔐 Aspiring Security Engineer
+
+## 🛠 Technologies I've Touched
+- Python
+- HTML / CSS
+- Blender (3DCG)
+
+## 📚 Currently Learning
+- Web Security
+- Deep Learning / CNN
+- JavaScript
+
+## 🌱 Interests
+- CTF
+- Anime / Film / Music
+- 3DCG Modeling
 
 <!--
 **kannaanye/kannaanye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
