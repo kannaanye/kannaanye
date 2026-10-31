@@ -1,20 +1,20 @@
-# Hi, I'm Kannaanye👋
+# Hi, I'm Kan👋
 
 🎓 2nd-year university student in Japan (Information & Media)
-🔐 Aspiring Security Engineer
 
 ## 🛠 Technologies I've Touched
 - Python
 - HTML / CSS
 - Blender (3DCG)
+- C#
+- C++
 
 ## 📚 Currently Learning
-- Web Security
-- Deep Learning / CNN
-- JavaScript
+- FE
+- Python
+- Atcoder
 
 ## 🌱 Interests
-- CTF
 - Anime / Film / Music
 - 3DCG Modeling
 
